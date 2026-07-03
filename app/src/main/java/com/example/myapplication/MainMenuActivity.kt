@@ -84,7 +84,7 @@ fun MenuScreen(onStart: (Int, Float) -> Unit) {
                     horizontalAlignment = Alignment.CenterHorizontally
                 ) {
                     Text(
-                        "🎮 Bola Inclinada",
+                        "Bola Inclinada",
                         fontSize = if (esPantallaAncha) 32.sp else 26.sp,
                         fontWeight = FontWeight.Bold,
                         color = ComposeColor(0xFF1565C0),
