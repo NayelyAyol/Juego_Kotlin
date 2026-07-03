@@ -22,7 +22,7 @@ La aplicación permite:
 
 ## Autor(a)
 
-- _(Tu nombre aquí)_
+- Nayely Ayol
 
 ---
 
