@@ -26,6 +26,13 @@ La aplicación permite:
 
 ---
 
+## APK
+
+- https://drive.google.com/drive/folders/1eG2Vstc1QSlLzzjqtT5fQYMauTc96lLs?usp=sharing
+
+
+---
+
 ## Tecnologías utilizadas
 
 - Kotlin
